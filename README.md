@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Gustavo-Barbos&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gustavo-Barbos&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/Gustavo-Barbos?label=Follow&style=social)
 
-Sou Gustavo Soares, um engenheiro mecânico em transição de carreira para a área de desenvolvimento de software desde o início de 2023.
+Sou Gustavo Barbosa, um engenheiro mecânico em transição de carreira para a área de desenvolvimento de software desde o início de 2023.
 Em minha jornada profissional já ministrei o ensino de robótica e me aventurei no mundo dos eventos.
 Agora, estou buscando oportunidade para aplicar minha paixão por aprender, solução de problemas e proatividade em projetos desafiadores e inovadores na área de desenvolvimento de software.
 
