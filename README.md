@@ -1,11 +1,9 @@
 # :sparkles: Oi, seja bem-vindo! :wave:<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-
 ![](https://komarev.com/ghpvc/?username=Gustavo-Barbos&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gustavo-Barbos&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/Gustavo-Barbos?label=Follow&style=social)
 
-- :computer: Desenvolvedor Backend
-- :mortar_board: Engenharia Mecânica
+Sou um engenheiro mecânico em transição para a área de desenvolvimento de software. Em minha jornada profissional já apliquei o ensino de robótica e me aventurei no mundo dos eventos. Agora, estou buscando oportunidades para aplicar minha paixão por aprender, solução de problemas e proatividade em projetos desafiadores e inovadores na área de desenvolvimento de software.
   
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,dotnet,express)](https://skillicons.dev)
