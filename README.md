@@ -1,16 +1,23 @@
-### Hi there 👋
+# :sparkles: Oi, eu sou o Barba! :wave:<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Gustavo-Barbos/Gustavo-Barbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Gustavo-Barbos&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gustavo-Barbos&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/Gustavo-Barbos?label=Follow&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Gustavo Soares, mas pode me chamar de "Barba" :sunglasses:
+
+- :computer: Desenvolvedor Backend
+- :mortar_board: Engenharia Mecânica
+  
+#### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,dotnet,express)](https://skillicons.dev)
+<br>
+<div>
+<a href="https://github.com/Gustavo-Barbos">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Barbos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Barbos&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+
+#### Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosoaresb/)
