@@ -11,7 +11,7 @@ Agora, estou buscando oportunidade para aplicar minha paixão por aprender, solu
 :mortar_board: Engenharia Mecânica
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,dotnet,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](https://skillicons.dev)
 <br>
 <br>
 <div>
